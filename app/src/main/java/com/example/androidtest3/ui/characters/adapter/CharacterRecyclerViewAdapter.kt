@@ -1,4 +1,4 @@
-package com.example.androidtest3.adapter
+package com.example.androidtest3.ui.characters.adapter
 
 import android.view.LayoutInflater
 import android.view.ViewGroup

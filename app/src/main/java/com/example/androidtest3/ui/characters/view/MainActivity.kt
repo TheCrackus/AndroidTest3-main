@@ -8,7 +8,7 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.lifecycleScope
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.example.androidtest3.ui.characters.viewmodel.MainViewModel
-import com.example.androidtest3.adapter.CharacterRecyclerViewAdapter
+import com.example.androidtest3.ui.characters.adapter.CharacterRecyclerViewAdapter
 import com.example.androidtest3.data.model.Result
 import com.example.androidtest3.databinding.ActivityMainBinding
 import dagger.hilt.android.AndroidEntryPoint
